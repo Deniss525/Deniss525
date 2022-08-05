@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deniss525
-- 👀 I’m interested in boys
-- 🌱 I’m currently learning python
+- 👀 I’m interested in cute python coders uwu
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate with persix
 - 📫 How to reach me )
 
